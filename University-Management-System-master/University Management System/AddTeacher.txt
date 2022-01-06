@@ -1,0 +1,1 @@
+insert into teacher values('Syeda','','','','','','','','','','B.Tech','1012330','Computer Science')

@@ -1,0 +1,1 @@
+insert into student values('Syeda','Maria','','','','','','','','','15332264','B.Tech','Computer Science')
